@@ -6,6 +6,6 @@ function hatvanyoz(tomb, hatvany) {
     return eredmeny;
   }
   
-  console.log(hatvanyoz([1, 4, 7, 2, 5], 3)); 
-  console.log(hatvanyoz('semmi', 5)); 
+console.log(hatvanyoz([1, 4, 7, 2, 5], 3)); 
+console.log(hatvanyoz('semmi', 5)); 
   

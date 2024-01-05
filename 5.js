@@ -13,5 +13,4 @@ function otoslotto() {
   
     return numbers;
   }
-
-  console.log(otoslotto()); 
+console.log(otoslotto()); 

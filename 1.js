@@ -13,7 +13,6 @@ function szepTomb(arr) {
     return true;
   }
   
-  // Példák
-  console.log(szepTomb(['alma', 'korte', 'szilva', 'barack']));
-  console.log(szepTomb([10, 20, 30, 40, '50', 60, 70]));
+console.log(szepTomb(['alma', 'korte', 'szilva', 'barack']));
+console.log(szepTomb([10, 20, 30, 40, '50', 60, 70]));
   
